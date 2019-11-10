@@ -27,3 +27,4 @@ for i in link:
 print('Task Completed!') 
 #modificari care s-au facut pe master.
 #viata este frumoasa.
+#simulam modificari pe care l-ar face un alt utilizator.
