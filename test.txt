@@ -25,3 +25,5 @@ for i in link:
     except: 
         print("Some Error!") 
 print('Task Completed!') 
+#modificari care s-au facut pe master.
+#viata este frumoasa.
