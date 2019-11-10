@@ -24,7 +24,7 @@ for i in link:
         d_video.download(SAVE_PATH) 
     except: 
         print("Some Error!") 
-print('Task Completed!') 
+//Am pus primele modificari.
 #modificari care s-au facut pe master.
 #viata este frumoasa.
 #simulam modificari pe care l-ar face un alt utilizator.
