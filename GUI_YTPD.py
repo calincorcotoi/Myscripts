@@ -28,7 +28,7 @@ class Example(QWidget):
         self.btnControl = QPushButton('Start')
 
         self.processBar = QProgressBar(self)
-        self.processBar.setValue(0)s
+        self.processBar.setValue(0)
 
         #signals and solt connected
         self.btnSelFolder.clicked.connect(self.selectFolder)
